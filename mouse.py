@@ -1,4 +1,4 @@
-# use python virson 3.8.0
+# use python virson 3.8.0 only
 import cv2
 import mediapipe as mp
 import pyautogui
