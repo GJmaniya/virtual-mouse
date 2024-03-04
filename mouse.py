@@ -1,3 +1,4 @@
+# use python virson 3.8.0
 import cv2
 import mediapipe as mp
 import pyautogui
