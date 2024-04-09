@@ -1,4 +1,4 @@
-# use for a install cv2 a pip install opencv-python this line for latest version 3.11.0
+# use for a install cv2 a "pip install opencv-python" this line for latest version 3.11.0
 import cv2
 import mediapipe as mp
 import pyautogui
